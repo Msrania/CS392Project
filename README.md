@@ -21,15 +21,19 @@ third, make fork to our project cs392.
 i choose name "MY FOOD" 
 then i create first release 
 that only contain title 
-(v0.1.0)
+#(v0.1.0)
 ![image](https://user-images.githubusercontent.com/105398645/170213664-99cdf6f0-3d0e-4799-9a76-af20c4ac2094.png)
 
 after that i will update GUI by adding:background and clear buttum and space area to show the classification result.
 One of the problems in the first version was that there was no space to display the result. Of course, this defect will make the system useless. We fixed it
 Also, the first version did not have a clear text button, which reduces the ease of use of the system. We put the button.
-(v0.2.0)
+#(v0.2.0)
 ![image](https://user-images.githubusercontent.com/105398645/170213792-ecfb4ab5-9491-4a9e-8b4b-9982aeff717e.png)
+after i typed in the textfield "salad" it returns this :
+![PHOTO-2022-05-25-11-55-44](https://user-images.githubusercontent.com/105398645/170226436-a61cfb37-31bb-44b8-8709-4a3837017174.jpg)
+
+
 
 pass/fail
 I had difficulty with step #4 to install "fasttext" which took a lot of time to fix.
-Also in dealing with "html" language, it is of course considered easy, but because I am dealing with it for the first time.
+Also had difficulty in system testing.
