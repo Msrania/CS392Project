@@ -15,7 +15,7 @@ Second, we will install " fasttext " and then we will run "node index.js".
 Screenshots:
 ![Screenshot from 2022-05-25 09-35-25](https://user-images.githubusercontent.com/105398645/170202994-53e20326-5cd6-479d-b55b-b8278da49b9a.png)
 ![Screenshot from 2022-05-25 09-57-08](https://user-images.githubusercontent.com/105398645/170203151-f6527c1a-c04d-46e3-87c5-bd1ed91416be.png)
-![IMG_2161](https://user-images.githubusercontent.com/105398645/170203592-d97284a3-e09b-47c6-85c0-8aee63e5983a.jpg)
+![success](https://user-images.githubusercontent.com/105398645/170220302-a3616981-2910-4951-b059-23b7a5fe7648.jpg)
 
 third, make fork to our project cs392.
 i choose name "MY FOOD" 
