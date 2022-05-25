@@ -36,6 +36,7 @@ after i typed in the textfield "salad" it returns this :
 
 
 pass/fail
+
 I had difficulty with step #4 to install "fasttext" which took a lot of time to fix.
 Also had difficulty in system testing.
 
