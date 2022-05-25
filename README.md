@@ -30,6 +30,7 @@ Also, the first version did not have a clear text button, which reduces the ease
 #(v0.2.0)
 ![image](https://user-images.githubusercontent.com/105398645/170213792-ecfb4ab5-9491-4a9e-8b4b-9982aeff717e.png)
 after i typed in the textfield "salad" it returns this :
+
 ![PHOTO-2022-05-25-11-55-44](https://user-images.githubusercontent.com/105398645/170226436-a61cfb37-31bb-44b8-8709-4a3837017174.jpg)
 
 
